@@ -38,7 +38,7 @@ This test is so that when LoadFeed is called and completes all its work there is
 
 ### Test Suite "New Feed Selection"
 
-This test is to make that when a new feed is loaded the content actually changes. 
+This test is to make sure that when a new feed is loaded the content actually changes. 
 
 
 ### Test Suite "The Menu"
