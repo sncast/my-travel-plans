@@ -18,7 +18,7 @@ This project will be available on GitHub
 
 ## Project Overview 
 
-This is a web-based application that can read RSS feeds. This application has been worked under the file Feedreader.Js to run a various amount of tests that will verify different components on the site are working properly. For more information about these tests please read the *Tests section. 
+This is a web-based application that can read RSS feeds. This application has been worked under the file Feedreader.Js to run a various amount of tests that will verify different components on the site are working properly. For more information about these tests please read the ***Tests section. 
 
 
 ## Prerequisites 
